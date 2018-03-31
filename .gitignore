@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+*.iml
+*.DS_STORE
+*.pem
+*.log
+
