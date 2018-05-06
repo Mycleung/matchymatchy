@@ -22,4 +22,4 @@ Source the charity data from the [UK Charities Commission](http://data.charityco
 
 Backend in Scala using `akka-http`. Created from this [Scala HTTP seed](https://github.com/yeghishe/minimal-scala-akka-http-seed.g8).
 
-Frontend in Typescript React, kickstarted from [`create-react-app`](https://github.com/facebook/create-react-app) [this guide](https://github.com/Microsoft/TypeScript-React-Starter)
+Frontend in Typescript React, kickstarted from [`create-react-app`](https://github.com/facebook/create-react-app) using [this guide](https://github.com/Microsoft/TypeScript-React-Starter).
